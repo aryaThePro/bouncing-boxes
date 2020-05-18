@@ -1,2 +1,1 @@
-# bouncing-boxes
-using matter.js
+# Box Class
